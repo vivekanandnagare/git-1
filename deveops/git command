@@ -1,0 +1,16 @@
+Push the code : 
+
+  367  git remote add repo3 https://github.com/vivekanandnagare/git-3.git
+  368  git master
+  369  git remote
+  370  git branch
+  371  git push repo03 master
+  372  git remote
+  373  git push repo33 maste
+
+
+pull the code:
+  376  git clone https://github.com/vivekanandnagare/git-3.git
+  377  pwd
+  378  ls -l
+  379  history
